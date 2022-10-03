@@ -1,6 +1,8 @@
 # Gestor de clientes en Python para Ingeniería
 
-Repositorio del proyecto completo del curso de Python.
+El link a este repositorio es el siguiente: [GonzaloGmv](https://github.com/GonzaloGmv/Gestor_Clientes)
+
+El link al repositorio original es el siguiente: [rubences](https://github.com/rubences/Gestor_Clientes.git)
 
 ## Instalar las dependencias
 
