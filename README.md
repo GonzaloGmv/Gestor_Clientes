@@ -29,3 +29,7 @@ python run.py -t
 ```bash
 pytest -v
 ```
+
+Creamos un entorno y hacemos los tests
+
+![test](https://user-images.githubusercontent.com/91721237/194372014-c6ecdc6b-b530-41e4-a612-7f8372f6af80.png)
